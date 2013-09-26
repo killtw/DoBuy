@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteCond $1 !^(index\.php|image|css|js|highslide|ixedit|robots\.txt)
+RewriteRule ^(.*)$ /dobuy/index.php/$1 [L]

@@ -1,0 +1,1 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');$config['per_page'] = 5;$config['full_tag_open'] = '<div class="pagebar">';$config['full_tag_close'] = '</div>';$config['cur_tag_open'] = '<span class="this-page">';$config['cur_tag_close'] = '</span>';$config['uri_segment'] = 4;

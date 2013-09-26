@@ -1,0 +1,7 @@
+table{border-collapse:collapse;text-align:center;}table td,table th{border:1px solid #666666;padding:4px;}
+div{margin:5px;}
+a{text-decoration:none;color:#2398DE;}
+.sort_asc:after{content:"▲";}
+.sort_desc:after{content:"▼";}
+.pagebar{padding:0.2em 0.5em;margin-right:0.1em;margin-bottom:1.0em;text-align:center;}.pagebar a{border:1px solid #9AAFE5;padding:0.2em 0.5em;}.pagebar a:hover{border-color:#2E6AB1;}
+.pagebar .this-page{margin-left:0.3em;border:1px solid #2E6AB1;padding:0.2em 0.5em;font-weight:bold;background:#2E6AB1;color:#fff;}
